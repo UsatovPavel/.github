@@ -1,12 +1,14 @@
-## Hi there 👋
+SmartCalendar — an Android application for task management with gamification elements.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Features:
+Creating, editing, completing, and deleting typed tasks
+Statistics by task types, weekly, daily, streak.
+Achievements: streaks, total hours, task type diversity, and more
+Notifications before tasks, with customizable reminder times
+Login and registration, with the ability to change username and password
+![Settings](https://github.com/user-attachments/assets/92517826-2dca-43d2-b207-5541186694b3)
+![Achievments](https://github.com/user-attachments/assets/2f5eda16-4066-45c5-8a5d-eba8468eedc9)
+![Statistics](https://github.com/user-attachments/assets/bdc2a243-a8d2-47b9-bfda-bf3f3412f9fb)
+![NavScheet](https://github.com/user-attachments/assets/938e9b5a-ae16-49fe-bdf8-5217e25cf6df)
+Building
+Client build by Gradle with latest Android SDK and Kotlin 2.0

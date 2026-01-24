@@ -32,8 +32,9 @@
 Main app functionality  & AI assistant demos
 <div align="center">
 <video src="https://github.com/user-attachments/assets/963f8ed1-c95e-4326-ae8b-bdfbd8c01e74" controls width="300"></video>
-<video src="../videos/SmartCalendar_AI-assistant.mp4" controls width="300"></video>
+<video src="https://github.com/user-attachments/assets/84071fe9-3991-4290-9e04-8ced36ae3edf" controls width="300"></video>
 </div>
+
 ---
 
 ## Project Architecture

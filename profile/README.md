@@ -13,6 +13,9 @@
   - Completion streaks
   - Task diversity badges
   - Time-based milestones
+- **AI Assistant**:
+  - ChatGPT suggestions from text or **audio** 
+  - Accept/decline suggested tasks
 - **Smart Reminders**: Customizable notifications with pre-task alerts
 - **User Profiles**: Secure login/registration with profile customization
 
@@ -22,6 +25,12 @@
   <img src="https://github.com/user-attachments/assets/bdc2a243-a8d2-47b9-bfda-bf3f3412f9fb" width="23%" alt="Statistics"/>
   <img src="https://github.com/user-attachments/assets/938e9b5a-ae16-49fe-bdf8-5217e25cf6df" width="23%" alt="Navigation"/>
 </div>
+
+---
+
+## Video
+- Main functionality demonstration: https://drive.google.com/file/d/1Zq_mHprqxPhZRkU3m5l3qvVPfQEbaJFy/view?usp=sharing
+- AI-assist demonstration: https://github.com/user-attachments/assets/963f8ed1-c95e-4326-ae8b-bdfbd8c01e74
 
 ---
 

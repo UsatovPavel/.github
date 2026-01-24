@@ -29,9 +29,11 @@
 ---
 
 ## Video
-- Main functionality demonstration: https://drive.google.com/file/d/1Zq_mHprqxPhZRkU3m5l3qvVPfQEbaJFy/view?usp=sharing
-- AI-assist demonstration: https://github.com/user-attachments/assets/963f8ed1-c95e-4326-ae8b-bdfbd8c01e74
-
+Main app functionality  & AI assistant demos
+<div align="center">
+<video src="../videos/SmartCalendar-demo+.mp4" controls width="300"></video>
+<video src="../videos/SmartCalendar_AI-assistant.mp4" controls width="300"></video>
+</div>
 ---
 
 ## Project Architecture

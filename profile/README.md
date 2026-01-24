@@ -30,10 +30,9 @@
 
 ## Video
 Main app functionality  & AI assistant demos
-<div align="center">
-<video src="https://github.com/user-attachments/assets/963f8ed1-c95e-4326-ae8b-bdfbd8c01e74" width="33%"></video>
-<video src="https://github.com/user-attachments/assets/84071fe9-3991-4290-9e04-8ced36ae3edf" width="33%"></video>
-</div>
+| | |
+|---|---|
+| <video src="https://github.com/user-attachments/assets/963f8ed1-c95e-4326-ae8b-bdfbd8c01e74" width="100%"></video> | <video src="https://github.com/user-attachments/assets/84071fe9-3991-4290-9e04-8ced36ae3edf" width="100%"></video> |
 
 ---
 
